@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# Video files (optional - if you don't want to upload large video files)
+*.mp4
+*.avi
+*.mov
+
+# Output files
+workout_analysis_*.mp4
+workout_session_*.mp4
