@@ -18,6 +18,6 @@ The application uses:
 - **NumPy** for angle calculations and mathematical operations
 
 ## 📋 Requirements
--opencv-python
--mediapipe
--numpy
+- **opencv-python**
+- **mediapipe**
+- **numpy**
